@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a full stack webapp that allows users to create and share flashcards. It was created for people to come and share study notes with one another. It utilized [MongoDB](https://www.mongodb.com/) with [Graphql](https://graphql.org/) and [Apollo](https://www.apollographql.com/docs/) to handle the database. The webpage is built using [React](https://react.dev/), and styled with [animate.css](https://animate.style/), and [typewriter-effect](https://www.npmjs.com/package/typewriter-effect). It also utilizes [jsonwebtoken](https://jwt.io/) and [bcypt](https://bcrypt.online/) to handle user logins. This application was deployed using Heroku, you can check it out here [Heroku]([https://www.heroku.com/platform](https://study-buddy-p3-0d14fa2a37d6.herokuapp.com/)).
+This is a full stack webapp that allows users to create and share flashcards. It was created for people to come and share study notes with one another. It utilized [MongoDB](https://www.mongodb.com/) with [Graphql](https://graphql.org/) and [Apollo](https://www.apollographql.com/docs/) to handle the database. The webpage is built using [React](https://react.dev/), and styled with [animate.css](https://animate.style/), and [typewriter-effect](https://www.npmjs.com/package/typewriter-effect). It also utilizes [jsonwebtoken](https://jwt.io/) and [bcypt](https://bcrypt.online/) to handle user logins. This application was deployed using [Heroku](https://www.heroku.com/platform).
 
 ## Table of Contents
 
